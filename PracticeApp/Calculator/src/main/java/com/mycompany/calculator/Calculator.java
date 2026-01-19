@@ -20,4 +20,7 @@ public class Calculator {
     public static void sub (int x, int y){
         System.out.println(x-y);
     }
+    public static void mult (int x, int y){
+        System.out.println(x*y);
+    }
 }
