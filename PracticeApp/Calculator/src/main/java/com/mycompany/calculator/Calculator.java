@@ -23,4 +23,7 @@ public class Calculator {
     public static void mult (int x, int y){
         System.out.println(x*y);
     }
+    public static void div (int x, int y){
+        System.out.println(x/y);
+    }
 }
